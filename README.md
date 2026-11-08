@@ -1,5 +1,7 @@
 # Peak Wagyu agent skills
 
+[![skills.sh](https://skills.sh/b/peakwagyu/skills)](https://skills.sh/peakwagyu/skills)
+
 Skills that let an AI agent order [Peak Wagyu](https://peakwagyu.com) (Japanese Fullblood Wagyu, shipped frozen in the US).
 
 ```sh
