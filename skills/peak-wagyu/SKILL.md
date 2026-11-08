@@ -5,7 +5,7 @@ description: Order Japanese Fullblood A4 Wagyu from Peak Wagyu (peakwagyu.com) f
 
 # Order wagyu from Peak Wagyu
 
-Peak Wagyu sells one Japanese Fullblood Wagyu cow at a time, cut by cut, shipped
+[Peak Wagyu](https://peakwagyu.com) sells one Japanese Fullblood Wagyu cow at a time, cut by cut, shipped
 frozen within the continental US. Every cut is its own product. When a cut sells
 out it is gone, so always read live stock rather than trusting anything cached.
 
